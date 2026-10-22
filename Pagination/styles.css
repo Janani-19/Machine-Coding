@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.cards {
+  width: 500px;
+  height: 500px;
+  display: flex;
+}
+.card-container {
+  margin: 5px;
+  padding: 5px;
+  border: 1px solid black;
+}
+.card-img {
+  width: 150px;
+  height: 150px;
+}
+.page-key {
+  padding: 4px;
+  margin: 3px;
+  border: 1px solid black;
+  cursor: pointer;
+}
+.active {
+  background-color: skyblue;
+}
